@@ -1,0 +1,7 @@
+streamlit==1.41.1
+langchain==0.3.14
+langchain-google-genai==2.0.8
+google-api-core==2.24.0
+grpcio-status==1.71.2
+langchain-community==0.3.14
+pypdf==5.1.0
